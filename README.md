@@ -44,7 +44,7 @@ Analysis of different parameters showed inefficiency of variation of only one pa
 Main functions used to produce results in task 2 represented in the figure 2 are in the folder "Task 2/main_functions".Type of objectie function is a parameter that has to be chosen by user.
 
 <p align="center">
-  <img src="images/bo_result_13.png" width="1000">
+  <img src="images/bo_result_13.png" width="750">
 </p>
 <p align="center">   
    <em> Fig.2 Bayesian Optimization process: 1 parameter</em>
@@ -55,7 +55,7 @@ Main functions used to produce results in task 2 represented in the figure 2 are
 Main functions used to produce results in task 3 represented in the figure 3 are in the folder "Task 3/main_functions".Type of objectie function is a parameter that has to be chosen by user.
 
 <p align="center">
-  <img src="images/bo_result_16.png" width="1000">
+  <img src="images/bo_result_16.png" width="750">
 </p>
 <p align="center">   
    <em> Fig.3 Bayesian Optimization process: 2 parameter</em>
