@@ -26,7 +26,17 @@ As evaluation metrics energy of the beam after acceleration and energy conversio
 
 During the study a new function has been created that changes the longitudinal profile of the beam. 
 
-
+<p align="center">
+  <img src="images/gauss.png" width="250">
+  <img src="images/flattop.png" width="250">
+</p>
+<p align="center">
+  <img src="images/flattop_smoothed.png" width="250">
+  <img src="images/rectan_trapezoidal_smoothed.png" width="250">
+</p>
+<p align="center">   
+   <em> Fig.1 Longitudinal profile of the electron beam</em>
+</p>
 
 
 
