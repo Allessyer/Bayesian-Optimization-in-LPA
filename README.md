@@ -65,7 +65,9 @@ Main functions used to produce results in task 3 represented in the figure 3 are
 
 For the task 4 private library "libe_opt" was used and can not be reproduced by users. However results of the optimization of 9 parameters and main simulation analysis are showen in main notebooks in the folder Task 4.
 
+## Conclusion
 
+In this work, a 30 percent energy conversion efficiency was achieved with electron acceleration to 222 MeV using a Bayesian optimization of nine parameters including all major plasma, laser, and electron beam parameters. All simulations were run without using the traditional PIC code, but with the computationally easier Wake-T code, which implements a quasi-static approximation. In this work, a simplified case was considered, when the electron beam was introduced externally. In the future, this study can be carried out in three directions. The first direction is the study of parameter variation for the case where we consider how the electron beam was created. The second direction is to further find a more precise optimum region using the PIC code. The next step in this direction is to set up a real experiment with existing laser-plasma gas pedals and to use Bayesian optimization for real-time LPA regulation. The third direction is the study of hyperparameters of Bayesian optimization, i.e. different kinds of covariance functions in a Gaussian process, different kinds of acquisition functions, as well as the study of multi-objective Bayesian optimization.
 
 
 
